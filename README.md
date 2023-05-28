@@ -12,10 +12,12 @@ tambien hay un bucle for para que cuando el app.py manda al index.html la inform
 
 
 FORMULARIO:
+
 ![image](https://github.com/toniroigchulia/AplicacionWebFlask/assets/114684509/97a7830a-0b0e-4f8d-925b-71c0b2fcfe84)
 
 
 TABLA EN EL BODY:
+
 ![image](https://github.com/toniroigchulia/AplicacionWebFlask/assets/114684509/259f2069-55b8-48ac-801b-8f85983e5586)
 
 
