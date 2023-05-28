@@ -6,6 +6,7 @@ La aplicacion cuenta de dos archivos importantes el app.py y el index.html junto
 
 El index.html es lo que ve y usa el usuario para insertar y visualizar los cumpleaños que ha guardado mientras que el app.py se encarga de hacer las funcionas logicas y conectar el index.html con la base de datos 
 para guardar esa informacion.
+![image](https://github.com/toniroigchulia/AplicacionWebFlask/assets/114684509/97a7830a-0b0e-4f8d-925b-71c0b2fcfe84)
 
 Para completar la practica en el index.html he creado un formulario donde el usuario inserta los datos de nombre, dia, para que despues el app.py pueda cojer estos datos y usarlos. Aparte de este formulario en el body
 tambien hay un bucle for para que cuando el app.py manda al index.html la informacion de la basee de datos usando el for recorremos esa informacion y creamos una tabla para ver todos los cumpleaños.
