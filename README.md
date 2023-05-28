@@ -11,9 +11,13 @@ Para completar la practica en el index.html he creado un formulario donde el usu
 tambien hay un bucle for para que cuando el app.py manda al index.html la informacion de la basee de datos usando el for recorremos esa informacion y creamos una tabla para ver todos los cumpleaños.
 
 
+
+
 FORMULARIO:
 
 ![image](https://github.com/toniroigchulia/AplicacionWebFlask/assets/114684509/97a7830a-0b0e-4f8d-925b-71c0b2fcfe84)
+
+
 
 
 TABLA EN EL BODY:
