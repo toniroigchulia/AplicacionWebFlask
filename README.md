@@ -29,3 +29,10 @@ En el app.py tenemos una funcion importante la que se encarga de cargar la infor
 request.form.get("") para conseguir los datos del apartado en cuestion y lo guardamos en una variable, despues usando esa variable ejecutamos un Insert de Sql con esas variables y lo guardamos en la base de datos.
 Despues para cargar la base de datos solo hacemos una Select de toda la base de datos y lo guardamos en la variable birthadays, despues el html recorrera el birthadys con el FOR mencionado anteriormente y creara una tabla para
 mostrar toda la informacion.
+
+CARGAR INFROMACION EN LA BASE DE DATOS:
+
+![image](https://github.com/toniroigchulia/AplicacionWebFlask/assets/114684509/37077171-a392-4bc7-be20-53e91eb3cc26)
+
+
+MANDAR LA INFORMACION AL INDEX HTML:
