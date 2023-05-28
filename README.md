@@ -36,3 +36,5 @@ CARGAR INFROMACION EN LA BASE DE DATOS:
 
 
 MANDAR LA INFORMACION AL INDEX HTML:
+
+![image](https://github.com/toniroigchulia/AplicacionWebFlask/assets/114684509/d0c2ee3d-4179-483e-ae82-6735a3b1b07a)
